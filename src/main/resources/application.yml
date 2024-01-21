@@ -3,3 +3,7 @@ spring:
     mongodb:
       uri: mongodb://localhost:27017/
       database: test-db
+
+logging:
+  level:
+    root: INFO
